@@ -18,8 +18,8 @@ name, surname, alias, age = "Adonis","Noa","Noafro", 34;
 print ("Mi nombre completo es:",name,surname,". Mi alias es:", alias, "y tengo ", age,"año de edad." );
 
 #input o entrada de datos
-name= (input("Digite su nombre"));
-age= (input("Digite su edad"));
+name= (input("Digite su nombre:"));
+age= (input("Digite su edad:"));
 
 print(name);
 print(age);

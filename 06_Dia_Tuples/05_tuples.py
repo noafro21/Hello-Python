@@ -14,3 +14,7 @@ print(type(my_tuple))
 
 print(my_tuple[0])
 print(my_tuple[-1])
+ 
+print(my_tuple.count("Adonis"))
+print(my_tuple.index("Noa"))
+print(my_tuple.index("Adonis"))
